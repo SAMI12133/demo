@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart School 2026",
+  "description": "A cutting-edge digital school platform designed for science fairs, featuring AI integration, interactive libraries, and smart management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
